@@ -1,5 +1,5 @@
 <h1 align="center">
-  Portal Web HTML5
+  Medicenter Flexbox
 </h1>
 
 ## 📋 Índice
@@ -21,7 +21,7 @@
 
 ## 📖 Sobre 
 
-Este site foi desenvolvido com o intuito de recriar o layout de um portal de notícias assim testando os conhecimentos adquiridos de HTML5 e CSS3 durante os cursos de desenvolvimento da B7Web com o professor Bonieky Lacerda. 
+Este site foi desenvolvido com o objetivo de recriar um template para clínicas médicas, neste site em específico o foco foi aplicar os conhecimentos de flexbox adiquiridos durante o curso de Desenvolvedor Fullstack da B7Web com o professor Bonieky Lacerda.  
 
 ---
 
@@ -29,7 +29,6 @@ Este site foi desenvolvido com o intuito de recriar o layout de um portal de not
 O projeto está sendo desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
-- JavaScript
 
 ---
 
@@ -38,3 +37,4 @@ O projeto está sendo desenvolvido com as seguintes tecnologias:
 Baixe o arquivo .ZIP do projeto e após descompactar abra o arquivo index.html
 
 ---
+
